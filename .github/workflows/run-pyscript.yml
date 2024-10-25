@@ -16,4 +16,4 @@ jobs:
         python-version: '3.x'  # укажите необходимую версию Python
 
     - name: Run Python Script
-      run: python script.py" > run-pyscript.yml
+      run: python script.py
